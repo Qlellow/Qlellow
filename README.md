@@ -1,4 +1,4 @@
-## 시발 나다
+## 저입니다
 
 <!--
 **ahrwu/ahrwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
