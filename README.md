@@ -7,8 +7,7 @@
   font-weight: 600;
   margin: 0.5em 0em;
   padding: 15px 20px;
-  border-radius: 20px 20px 20px 0px;"
-  data-ke-size="size23">
+  border-radius: 20px 20px 20px 0px;">
   <img
     src="https://render.gitanimals.org/lines/ahrwu?pet-id=717325332977676079"
     width="800"
