@@ -1,5 +1,13 @@
 ## 저입니다
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ahrwu&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/ahrwu?pet-id=717325332977676079"
+    width="800"
+    height="200"
+  />
+</a>
+  
 <!--
 **ahrwu/ahrwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
