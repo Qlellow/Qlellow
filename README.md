@@ -1,12 +1,5 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Qlellow's%20Github&fontSize=80" /> -->
 [![Qlellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qlellow&show_icons=true&theme=great-gatsby&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Qlellow&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Qlellow?pet-id=745109201848217663"
-    width="600"
-    height="120"
-  />
-</a>
   
   
 <!--
