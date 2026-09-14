@@ -1,6 +1,5 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Qlellow's%20Github&animation=&fontColor=ffffff&fontSize=60" />
-    <hr style="height: .25rem">
     <div align="left">
         <h3 s3yle="color: #c9d1d9;"> 🛠️ Tech Stacks </h3>
         <div style="margin: 0 auto; text-align: center;" align="left">
