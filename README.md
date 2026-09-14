@@ -14,12 +14,12 @@
     </div>
     <div align="center"> <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊 GitHub Stats </h2> <br>
         <img
-          src="https://github-stats-extended.vercel.app/api?username=Qlellow&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-          width="400"
+            src="https://github-stats-extended.vercel.app/api?username=Qlellow&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+            height="180"
         />
-        <img 
-          src="https://streak-stats.demolab.com/?user=Qlellow&theme=tokyonight&hide_border=true"
-          width="400"
+        <img
+            src="https://streak-stats.demolab.com/?user=Qlellow&theme=tokyonight&hide_border=true"
+            height="180"
         />
     </div> <br>
     <div align= "center">
