@@ -21,5 +21,6 @@
     <div align= "center">
         <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FQlellow%2Fhits-counter&label=Visitors&icon=github&color=%23198754&message=&style=for-the-badge&tz=Asia%2FSeoul">
     </div>
+    [![Qlellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qlellow)](https://github.com/Qlellow/github-readme-stats)
 </div>
     
