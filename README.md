@@ -21,5 +21,7 @@
     <div align= "center">
         <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FQlellow%2Fhits-counter&label=Visitors&icon=github&color=%23198754&message=&style=for-the-badge&tz=Asia%2FSeoul">
     </div>
+    <div align="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=Qlellow&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" />
+    </div>
 </div>
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Qlellow&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)
