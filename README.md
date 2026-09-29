@@ -45,6 +45,17 @@
     </div>
     <hr style="height: .25rem">
     <div align="left">
+        <h3 style="color: #c9d1d9;"> 🏡 My Git Animals </h3>
+        <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Qlellow&utm_content=farm">
+            <img
+              src="https://render.gitanimals.org/farms/Qlellow"
+              width="600"
+              height="300"
+            />
+        </a>
+    </div>
+    <hr style="height: .25rem">
+    <div align="left">
         <h3 style="color: #c9d1d9;"> 📫 Contact me </h3>
         <div align="center">
             <a href="mailto:changyeon0702@gmail.com">
