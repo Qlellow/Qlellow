@@ -13,7 +13,7 @@
             <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
         </div>
     </div>
-    <hr style="height: .25rem">
+    <hr style="height: 1rem">
     <div align="left">
         <h3 style="color: #c9d1d9;"> 📊 GitHub Stats </h3>
         <img
